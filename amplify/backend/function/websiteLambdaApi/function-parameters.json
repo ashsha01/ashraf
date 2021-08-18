@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "storage": {
+      "websiteDB": [
+        "create",
+        "read",
+        "update",
+        "delete"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}

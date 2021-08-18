@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-ashraf-dev-144612-authRole",
+      "UnauthRoleArn": "arn:aws:iam::905486985114:role/amplify-ashraf-dev-144612-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::905486985114:role/amplify-ashraf-dev-144612-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-ashraf-dev-144612-deployment",
+      "UnauthRoleName": "amplify-ashraf-dev-144612-unauthRole",
+      "StackName": "amplify-ashraf-dev-144612",
+      "StackId": "arn:aws:cloudformation:eu-west-1:905486985114:stack/amplify-ashraf-dev-144612/67683bf0-fdbe-11eb-a6ed-062dffa7d597",
+      "AmplifyAppId": "d1amyci61fs6qy"
+    },
+    "categories": {
+      "function": {
+        "websiteLambdaApi": {
+          "deploymentBucketName": "amplify-ashraf-dev-144612-deployment",
+          "s3Key": "amplify-builds/websiteLambdaApi-6d3970714879312f7852-build.zip"
+        }
+      }
+    }
+  }
+}
